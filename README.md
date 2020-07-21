@@ -14,5 +14,5 @@ This is the place where I opensource stuff and break things 🤣
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-felipe-magnabosco-b0a48798/)](https://www.linkedin.com/in/jackson-felipe-magnabosco-b0a48798/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jacksonn455/)](https://www.instagram.com/jacksonn455/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@soichiro.jacson)
-[![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco----%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco--@hotmail.com)](mailto:jacksonmagnabosco--@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco--@hotmail.com)](mailto:jacksonmagnabosco--@hotmail.com)
 

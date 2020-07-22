@@ -5,7 +5,12 @@ This is the place where I opensource stuff and break things 🤣
 ### Programming Languages
 <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/c.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/C_Sharp_logo.svg' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/java.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/matlab.png' width='35'/>
 
-### Performance testing
+### Artificial Intelligence
+<img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/jupyter.png' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/colab.png' width='30'/>
+
+###Image Processing
+
+### Performance Testing
 <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/k6logo.png' width='50'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/load.png' width='30'/>
 
 <h3>Where to find me:</h3>

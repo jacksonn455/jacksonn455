@@ -22,6 +22,8 @@ This is the place where I opensource stuff and break things 🤣
 ### Performance Testing
 <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/k6logo.png' width='50'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/load.png' width='30'/>
 
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonn455&langs_count=6"/>
+
 <h3>Where to find me:</h3>
 
 [![Blog Badge](https://img.shields.io/badge/Blog-jacksonn455.github.io-black)](https://jacksonn455.github.io/)

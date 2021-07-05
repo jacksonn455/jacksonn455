@@ -2,6 +2,9 @@
 
 This is the place where I opensource stuff and break things 🤣
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/jacksonn455/github-profile-trophy)
+
+
 ### Programming Languages
 
 <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/c.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/C_Sharp_logo.svg' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/java.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 

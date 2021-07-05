@@ -26,7 +26,7 @@ This is the place where I opensource stuff and break things 🤣
 ### Performance Testing
 <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/k6logo.png' width='50'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/load.png' width='30'/>
 
-<p align="center"><img src="https://profile-counter.glitch.me/jacksonn455/count.svg" alt="jacksonn455 :: Visitor's Count" /></p>
+<p align="left"><img src="https://profile-counter.glitch.me/{jacksonn455}/count.svg" alt="jacksonn455 :: Visitor's Count" /></p>
 
 <h3>Where to find me:</h3>
 

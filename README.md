@@ -2,7 +2,22 @@
 
 This is the place where I opensource stuff and break things 🤣
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jacksonn455&theme=onedark)](https://github.com/jacksonn455/github-profile-trophy)
+#
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=jacksonn455&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/jacksonn455)
+
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/jacksonn455/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonn455&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+  </a>
+</p>
+
+#
+
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/jacksonn455/blob/master/GIF/github.gif"></a>
+<br/>
 
 
 ### Programming Languages

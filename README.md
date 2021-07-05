@@ -2,7 +2,7 @@
 
 This is the place where I opensource stuff and break things 🤣
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/jacksonn455/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jacksonn455&theme=onedark)](https://github.com/jacksonn455/github-profile-trophy)
 
 
 ### Programming Languages

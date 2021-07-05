@@ -15,8 +15,6 @@ This is the place where I opensource stuff and break things 🤣
 </p>
 
 #
-
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/jacksonn455/blob/master/GIF/github.gif"></a>
 <br/>
 
 

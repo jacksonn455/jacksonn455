@@ -37,7 +37,16 @@ This is the place where I opensource stuff and break things 🤣
 ### Performance Testing
 <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/k6logo.png' width='50'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/load.png' width='30'/>
 
-#
+### Work Experience
+
+[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="cdftv.svg"/>](https://www.instagram.com/codigofontetv/)
+
+[**Compasso Uol**](https://www.instagram.com/compassouol/) 
+ Full-time • 1 year and 8 months\
+Services: `DevOps`, `DevSecOps`, `Dev Back-End
+<br/>
+
+[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1640217600&v=beta&t=zEKXn_4Kdu9Hf8BOXrNBYkb5WrLWADVHbJhjqrSgA8U"/>](https://compassouol.com/)
 
 <h3>Where to find me:</h3>
 

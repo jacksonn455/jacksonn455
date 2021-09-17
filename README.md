@@ -45,7 +45,7 @@ Service: `Developer Back-End`\
 
 [**Compasso Uol**](https://compassouol.com/) \
 Time: Full-Time, 1 year and 8 months \
-Service: `DevOps`, `DevSecOps`, `Developer Back-End`\
+Service: `DevOps`, `DevSecOps`\
 <br>
 
 [<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHoF1ixotTE4w/company-logo_200_200/0/1565284523906?e=1640217600&v=beta&t=4NaOKZ-iTjU9-Hm1FncWoeE6LJvqAKvrz8E_s2XPilo"/>](http://www.armariosinteligentes.com.br)

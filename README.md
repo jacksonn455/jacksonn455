@@ -37,21 +37,22 @@ This is the place where I opensource stuff and break things 🤣
 ### Performance Testing
 <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/k6logo.png' width='50'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/load.png' width='30'/>
 
-# 
- 
-### Work Experience
+### Experiência de trabalho
+Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="100px" width="100px" alt="Compasso Uol" src="cdftv.svg"/>](https://www.instagram.com/compassouol/)
+[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="cdftv.svg"/>](https://www.instagram.com/codigofontetv/)
 
-[**Compasso Uol**](https://www.instagram.com/compassouol/) 
- Full-time • 1 year and 8 months\
-Services: `DevOps`, `DevSecOps`, `Dev Back-End`
+[**Código Fonte TV**](https://www.instagram.com/codigofontetv/) \
+ Part-time • 5 meses\
+Serviços: `Social Media`, `UI Designer`, `Dev Front-End`\
 <br/>
 
-[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1640217600&v=beta&t=zEKXn_4Kdu9Hf8BOXrNBYkb5WrLWADVHbJhjqrSgA8U"/>](https://compassouol.com/)
-<br/>
+[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGLdhC4xVPFFA/company-logo_200_200/0/1605103980560?e=2159024400&v=beta&t=46pDvmTo3tpHusdd2CWYZ9hiUN4bYc_h3Yu03R4X_TM"/>](https://contweb.com.br/)
 
-#
+[**ContWeb**](https://contweb.com.br/) \
+ Estágio • 1 mês\
+Serviços: `Dev Front-End`\
+<br/>
 
 <h3>Where to find me:</h3>
 

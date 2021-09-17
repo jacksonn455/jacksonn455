@@ -34,25 +34,25 @@ This is the place where I opensource stuff and break things 🤣
 
 ### Work Experience
 
-[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1640217600&v=beta&t=zEKXn_4Kdu9Hf8BOXrNBYkb5WrLWADVHbJhjqrSgA8U"/>](https://compassouol.com/)
+[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFRBT7SNH9ztg/company-logo_200_200/0/1607006777908?e=1640217600&v=beta&t=Z7dvhMkzckM5Ay9_R-YIoo6fmTuIrdiunc68S-Wb0gY"/>](http://www.globalsys.com.br)
 
-[**Compasso Uol**](https://compassouol.com/) \
- Estágio • 1 mês\
-Serviços: `DevOps`, `DevSecOps`, `Dev Back-End`\
+[**Globalsys**](http://www.globalsys.com.br) \
+Time: Full-Time, Now \
+Service: `DevOps`, `DevSecOps`, `Dev Back-End`\
 <br>
 
 [<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1640217600&v=beta&t=zEKXn_4Kdu9Hf8BOXrNBYkb5WrLWADVHbJhjqrSgA8U"/>](https://compassouol.com/)
 
 [**Compasso Uol**](https://compassouol.com/) \
- Estágio • 1 mês\
-Serviços: `DevOps`, `DevSecOps`, `Dev Back-End`\
+Time: Full-Time, 1 year and 8 months \
+Service: `DevOps`, `DevSecOps`, `Dev Back-End`\
 <br>
 
-[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1640217600&v=beta&t=zEKXn_4Kdu9Hf8BOXrNBYkb5WrLWADVHbJhjqrSgA8U"/>](https://compassouol.com/)
+[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHoF1ixotTE4w/company-logo_200_200/0/1565284523906?e=1640217600&v=beta&t=4NaOKZ-iTjU9-Hm1FncWoeE6LJvqAKvrz8E_s2XPilo"/>](http://www.armariosinteligentes.com.br)
 
-[**Compasso Uol**](https://compassouol.com/) \
- Estágio • 1 mês\
-Serviços: `DevOps`, `DevSecOps`, `Dev Back-End`\
+[**Armarios Inteligentes**](http://www.armariosinteligentes.com.br) \
+Time: Half-Time, 1 year \
+Service: `Desenvolvedor Java`, `Desenvolvedor Flutter`\
 <br>
 
 #

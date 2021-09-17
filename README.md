@@ -6,14 +6,6 @@ This is the place where I opensource stuff and break things 🤣
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=jacksonn455&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/jacksonn455)
 
-<p align="center">
-  <a>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonn455&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
-  </a>
-</p>
-
 #
 
 ### Programming Languages
@@ -50,9 +42,9 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 Serviços: `Social Media`, `UI Designer`, `Dev Front-End`\
 <br/>
 
-[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGLdhC4xVPFFA/company-logo_200_200/0/1605103980560?e=2159024400&v=beta&t=46pDvmTo3tpHusdd2CWYZ9hiUN4bYc_h3Yu03R4X_TM"/>](https://contweb.com.br/)
+[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1640217600&v=beta&t=zEKXn_4Kdu9Hf8BOXrNBYkb5WrLWADVHbJhjqrSgA8U"/>](https://compassouol.com/)
 
-[**ContWeb**](https://contweb.com.br/) \
+[**Compasso Uol**](https://compassouol.com/) \
  Estágio • 1 mês\
 Serviços: `Dev Front-End`\
 <br/>

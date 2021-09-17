@@ -50,7 +50,7 @@ Serviços: `DevOps`, `DevSecOps`, `Dev Back-End`\
 
 #
 
-<h3>Where to find me:</h3>
+<h3>Where to find me</h3>
 
 [![Blog Badge](https://img.shields.io/badge/Blog-jacksonn455.github.io-black)](https://jacksonn455.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-felipe-magnabosco-b0a48798/)](https://www.linkedin.com/in/jackson-felipe-magnabosco-b0a48798/)

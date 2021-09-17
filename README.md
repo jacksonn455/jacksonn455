@@ -41,6 +41,8 @@ This is the place where I opensource stuff and break things 🤣
  
 ### Work Experience
 
+[<img align="left" height="100px" width="100px" alt="Compasso Uol" src="cdftv.svg"/>](https://www.instagram.com/compassouol/)
+
 [**Compasso Uol**](https://www.instagram.com/compassouol/) 
  Full-time • 1 year and 8 months\
 Services: `DevOps`, `DevSecOps`, `Dev Back-End`

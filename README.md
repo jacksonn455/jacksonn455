@@ -39,14 +39,14 @@ This is the place where I opensource stuff and break things 🤣
 [**Compasso Uol**](https://compassouol.com/) \
  Estágio • 1 mês\
 Serviços: `DevOps`, `DevSecOps`, `Dev Back-End`\
-<br/>
+<br>
 
 [<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1640217600&v=beta&t=zEKXn_4Kdu9Hf8BOXrNBYkb5WrLWADVHbJhjqrSgA8U"/>](https://compassouol.com/)
 
 [**Compasso Uol**](https://compassouol.com/) \
  Estágio • 1 mês\
 Serviços: `DevOps`, `DevSecOps`, `Dev Back-End`\
-<br/>
+<br>
 
 #
 

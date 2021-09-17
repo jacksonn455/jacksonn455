@@ -38,21 +38,21 @@ This is the place where I opensource stuff and break things 🤣
 
 [**Globalsys**](http://www.globalsys.com.br) \
 Time: Full-Time, Now \
-Service: `Dev Back-End`\
+Service: `Developer Back-End`\
 <br>
 
 [<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1640217600&v=beta&t=zEKXn_4Kdu9Hf8BOXrNBYkb5WrLWADVHbJhjqrSgA8U"/>](https://compassouol.com/)
 
 [**Compasso Uol**](https://compassouol.com/) \
 Time: Full-Time, 1 year and 8 months \
-Service: `DevOps`, `DevSecOps`, `Dev Back-End`\
+Service: `DevOps`, `DevSecOps`, `Developer Back-End`\
 <br>
 
 [<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHoF1ixotTE4w/company-logo_200_200/0/1565284523906?e=1640217600&v=beta&t=4NaOKZ-iTjU9-Hm1FncWoeE6LJvqAKvrz8E_s2XPilo"/>](http://www.armariosinteligentes.com.br)
 
 [**Armarios Inteligentes**](http://www.armariosinteligentes.com.br) \
 Time: Half-Time, 1 year \
-Service: `Desenvolvedor Java`, `Desenvolvedor Flutter`\
+Service: `Developer Java`, `Developer Flutter`\
 <br>
 
 #

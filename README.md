@@ -34,7 +34,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ### Work Experience
 
-[<img src = "https://github.com/jacksonn455/jacksonn455/blob/master/globalsys" height="100px" width="100px"/>](http://www.globalsys.com.br)
+[<img align="left" height="100px" width="101px" src="https://github.com/jacksonn455/jacksonn455/blob/master/globalsys"/>](http://www.globalsys.com.br)
 
 [**Globalsys**](http://www.globalsys.com.br) \
 Time: Full-Time, Now \

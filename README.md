@@ -41,7 +41,7 @@ Time: Full-Time, Now \
 Service: `Developer Back-End`\
 <br>
 
-[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1640217600&v=beta&t=zEKXn_4Kdu9Hf8BOXrNBYkb5WrLWADVHbJhjqrSgA8U"/>](https://compassouol.com/)
+[<img align="left" height="100px" width="100px" alt="ContWeb" src="![image](https://user-images.githubusercontent.com/46221221/148572018-27d51a61-c9eb-43dd-93c2-dee482dcb483.png)"/>](https://compassouol.com/)
 
 [**Compasso Uol**](https://compassouol.com/) \
 Time: Full-Time, 1 year and 8 months \

@@ -34,21 +34,21 @@ This is the place where I opensource stuff and break things 🤣
 
 ### Work Experience
 
-[<img align="left" height="100px" width="101px" src="https://github.com/jacksonn455/jacksonn455/blob/master/globalsys"/>](http://www.globalsys.com.br)
+[<img align="left" height="100px" width="101px" src="https://github.com/jacksonn455/jacksonn455/blob/master/globalsys.png"/>](http://www.globalsys.com.br)
 
 [**Globalsys**](http://www.globalsys.com.br) \
 Time: Full-Time, Now \
 Service: `Developer Back-End`\
 <br>
 
-[<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/compass"/>](https://compassouol.com/)
+[<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/compass.jpg"/>](https://compassouol.com/)
 
 [**Compasso Uol**](https://compassouol.com/) \
 Time: Full-Time, 1 year and 8 months \
 Service: `DevOps`, `DevSecOps`\
 <br>
 
-[<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/armarios"/>](http://www.armariosinteligentes.com.br)
+[<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/armarios.png"/>](http://www.armariosinteligentes.com.br)
 
 [**Armarios Inteligentes**](http://www.armariosinteligentes.com.br) \
 Time: Half-Time, 1 year \

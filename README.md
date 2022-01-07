@@ -48,7 +48,7 @@ Time: Full-Time, 1 year and 8 months \
 Service: `DevOps`, `DevSecOps`\
 <br>
 
-[<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/armarios.png"/>](http://www.armariosinteligentes.com.br)
+[<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/logo-armarios-inteligentes.png"/>](http://www.armariosinteligentes.com.br)
 
 [**Armarios Inteligentes**](http://www.armariosinteligentes.com.br) \
 Time: Half-Time, 1 year \

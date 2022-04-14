@@ -36,14 +36,14 @@ This is the place where I opensource stuff and break things 🤣
 
 [<img align="left" height="100px" width="101px" src="https://github.com/jacksonn455/jacksonn455/blob/master/globalsys.png"/>](http://www.globalsys.com.br)
 
-[**Globalsys**](http://www.globalsys.com.br) \
+[**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) \
 Time: Full-Time, Now \
 Service: `Developer Back-End`\
 <br>
 
 [<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/compass.jpg"/>](https://compassouol.com/)
 
-[**Compasso Uol**](https://compassouol.com/) \
+[**Compass.Uol**](https://compassouol.com/) \
 Time: Full-Time, 1 year and 8 months \
 Service: `DevOps`, `DevSecOps`\
 <br>

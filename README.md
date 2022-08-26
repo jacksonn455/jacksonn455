@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 #
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=jacksonn455&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/jacksonn455)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=jacksonn455&column=8&margin-w=15&margin-h=25&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/jacksonn455)
 
 #
 

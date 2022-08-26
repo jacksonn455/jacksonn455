@@ -16,8 +16,7 @@ This is the place where I opensource stuff and break things
 <img width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonn455&langs_count=20"/>
 
 ### Mobile App Development
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/>
-<img src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" alt="kotlin" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="max-width: 100%;">
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" alt="kotlin" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="max-width: 100%;">
 
 ### Database
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>

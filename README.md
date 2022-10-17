@@ -44,11 +44,17 @@ This is the place where I opensource stuff and break things
 #
 
 ### Work Experience
+[<img align="left" height="100px" width="101px" src="https://blog.superbid.net/wp-content/uploads/2022/09/cropped-logo-superbid-exchange.png"/>](https://www.superbid.net/)
+
+[**Superbid**](https://www.superbid.net/) \
+Time: Full-Time, Now \
+Service: `Developer Back-End`\
+<br>
 
 [<img align="left" height="100px" width="101px" src="https://github.com/jacksonn455/jacksonn455/blob/master/globalsys.png"/>](http://www.globalsys.com.br)
 
 [**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) \
-Time: Full-Time, Now \
+Time: half-Time, Now \
 Service: `Developer Back-End`\
 <br>
 

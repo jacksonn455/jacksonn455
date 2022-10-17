@@ -48,7 +48,7 @@ This is the place where I opensource stuff and break things
 
 [**Superbid**](https://www.superbid.net/) \
 Time: Full-Time, Now \
-Service: `Developer Back-End`\
+Service: `Software Engineer`\
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://github.com/jacksonn455/jacksonn455/blob/master/globalsys.png"/>](http://www.globalsys.com.br)

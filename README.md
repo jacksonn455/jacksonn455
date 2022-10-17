@@ -44,7 +44,7 @@ This is the place where I opensource stuff and break things
 #
 
 ### Work Experience
-[<img align="left" height="100px" width="101px" src="https://blog.superbid.net/wp-content/uploads/2022/09/cropped-logo-superbid-exchange.png"/>](https://www.superbid.net/)
+[<img align="left" height="100px" width="101px" src="https://blog.superbid.net/wp-content/uploads/2022/09/cropped-logo-superbid-exchange.png](https://scontent.fxap4-1.fna.fbcdn.net/v/t39.30808-1/302427023_5528314610587033_1697867863848096191_n.jpg?stp=dst-jpg_p148x148&_nc_cat=100&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=ScCZRtzNtv4AX-SatFZ&_nc_ht=scontent.fxap4-1.fna&oh=00_AT_CCfCk26x864LYjaVg-NA2lpKgShVYhYSM5sOCOz3BEA&oe=63523574)"/>](https://www.superbid.net/)
 
 [**Superbid**](https://www.superbid.net/) \
 Time: Full-Time, Now \

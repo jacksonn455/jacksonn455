@@ -11,7 +11,8 @@ This is the place where I opensource stuff and break things
 
 ### Certificates
 
-<img src = 'https://yata.s3-object.locaweb.com.br/8dbd3b523dbfb85fc0b447919b20a2297a3621a95afec036d10cbc04b6605c17' width='30'/>
+<img src = 'https://www.cventures.com.br/wp-content/uploads/2022/10/wevo.png' width='40'/> <img src =
+'https://allvectorlogo.com/img/2017/02/veracode-logo.png' width='40'/> <img src = 'https://certiprof.com/cdn/shop/products/Scrum-Master-Professional-Certificate-SMPC_-2020_f2d2e028-ff24-44d1-9c91-56fa52ff8614_600x.png?v=1663936243' width='40'/> <img src = 'https://scrumevolution.com/wp-content/uploads/2022/12/SSPOC-512-300x300.png' width='40'/>
 
 #
 

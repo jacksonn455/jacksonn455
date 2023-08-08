@@ -25,8 +25,9 @@ This is the place where I opensource stuff and break things
 <img width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonn455&langs_count=20"/>
 
 ### Frameworks
-<img src = 'https://logospng.org/download/node-js/logo-node-js-1024.png' width='30'/> <img src="https://docs.nestjs.com/assets/logo-small.svg" width='30'/>
-<img src="https://programadoresbrasil.com.br/wp-content/uploads/2021/05/spring-framework.png" width='40'/>
+<img src = 'https://play-lh.googleusercontent.com/fHuiE_uOkIv95JBD8oZoOp_F7wRQtwZewenLfLFxTRddMIoXtEX9U6bIeOSComU_2Ds' width='30'/>
+<img src="https://docs.nestjs.com/assets/logo-small.svg" width='30'/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCOQ4yMLDKGGk2Gi0lW7MGtckzjGZbIkOxc0SegvIP5v2yjkEbSGrgIk0UqfksrcZa2nE&usqp=CAU" width='30'/>
 
 ### Mobile App Development
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" alt="kotlin" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="max-width: 100%;">

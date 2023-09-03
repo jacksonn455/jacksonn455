@@ -13,7 +13,7 @@ This is the place where I opensource stuff and break things
 ### Certificates
 
 <img src = 'https://www.cventures.com.br/wp-content/uploads/2022/10/wevo.png' width='60'/> <img src =
-'https://allvectorlogo.com/img/2017/02/veracode-logo.png' width='60'/> <img src = 'https://certiprof.com/cdn/shop/products/Scrum-Master-Professional-Certificate-SMPC_-2020_f2d2e028-ff24-44d1-9c91-56fa52ff8614_600x.png?v=1663936243' width='50'/> <img src = 'https://scrumevolution.com/wp-content/uploads/2022/12/SSPOC-512-300x300.png' width='50'/>
+'https://allvectorlogo.com/img/2017/02/veracode-logo.png' width='60'/> <img src = 'https://certiprof.com/cdn/shop/products/Scrum-Master-Professional-Certificate-SMPC_-2020_f2d2e028-ff24-44d1-9c91-56fa52ff8614_600x.png?v=1663936243' width='50'/> <img src = 'https://scrumevolution.com/wp-content/uploads/2022/12/SSPOC-512-300x300.png' width='50'/> <img src = 'https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png' width='50'/>
 
 #
 

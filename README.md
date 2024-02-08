@@ -28,7 +28,8 @@ This is the place where I opensource stuff and break things
 <img src = 'https://play-lh.googleusercontent.com/fHuiE_uOkIv95JBD8oZoOp_F7wRQtwZewenLfLFxTRddMIoXtEX9U6bIeOSComU_2Ds' width='30'/> <img src="https://docs.nestjs.com/assets/logo-small.svg" width='30'/> <img src="https://spring.io/img/logos/spring-initializr.svg" width='30'/>
 
 ### Mobile App Development
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" alt="kotlin" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" style="max-width: 100%;">
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> 
+<img src = 'https://www.staffworx.co.uk/wp-content/uploads/2020/12/kotlin-logo-3.jpg' width='30'/>
 
 ### Database
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src="https://www.pinpng.com/pngs/m/489-4895811_sql-server-logo-microsoft-png-ms-sql-server.png" data-original="https://www.pinpng.com/pngs/m/489-4895811_sql-server-logo-microsoft-png-ms-sql-server.png" width='30'/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" width='30'/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/couchdb_original_wordmark_logo_icon_146586.png" width='30'/> <img  src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_502,h_518/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" width='30'/>

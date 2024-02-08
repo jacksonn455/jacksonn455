@@ -28,7 +28,7 @@ This is the place where I opensource stuff and break things
 <img src = 'https://play-lh.googleusercontent.com/fHuiE_uOkIv95JBD8oZoOp_F7wRQtwZewenLfLFxTRddMIoXtEX9U6bIeOSComU_2Ds' width='30'/> <img src="https://docs.nestjs.com/assets/logo-small.svg" width='30'/> <img src="https://spring.io/img/logos/spring-initializr.svg" width='30'/>
 
 ### Mobile App Development
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://www.staffworx.co.uk/wp-content/uploads/2020/12/kotlin-logo-3.jpg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://www.staffworx.co.uk/wp-content/uploads/2020/12/kotlin-logo-3.jpg' width='50'/>
 
 ### Database
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src="https://www.pinpng.com/pngs/m/489-4895811_sql-server-logo-microsoft-png-ms-sql-server.png" data-original="https://www.pinpng.com/pngs/m/489-4895811_sql-server-logo-microsoft-png-ms-sql-server.png" width='30'/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" width='30'/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/couchdb_original_wordmark_logo_icon_146586.png" width='30'/> <img  src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_502,h_518/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" width='30'/>

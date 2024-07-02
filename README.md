@@ -57,14 +57,15 @@ This is the place where I opensource stuff and break things
 #
 
 ### Work Experience
-[<img align="left" height="100px" width="101px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG7DWzhIkwkJg/company-logo_200_200/0/1604197108944?e=2147483647&v=beta&t=WqQgXeJlG-IM7AiQiI6rwhdnHwwD8dSFMOn_q8KIYxg"/>](https://www.superbid.net/)
+
+[<img align="left" height="100px" width="101px" src="https://yt3.googleusercontent.com/ytc/AIdro_kMUxRc8x8SswtRuB6iOK03lU1SifsKESzusZPhAHQknQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.uricer.edu.br)
 
 [**URI**](https://www.uricer.edu.br/) \
 Time: Full-Time, Now \
 Service: `Professor`\
 <br>
 
-[<img align="left" height="100px" width="101px" src="https://www.reitoria.uri.br/img/logo.png"/>](https://www.uricer.edu.br)
+[<img align="left" height="100px" width="101px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG7DWzhIkwkJg/company-logo_200_200/0/1604197108944?e=2147483647&v=beta&t=WqQgXeJlG-IM7AiQiI6rwhdnHwwD8dSFMOn_q8KIYxg"/>](https://www.superbid.net/)
 
 [**Superbid**](https://www.superbid.net/) \
 Time: Full-Time, Now \

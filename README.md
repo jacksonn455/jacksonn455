@@ -61,7 +61,7 @@ This is the place where I opensource stuff and break things
 [<img align="left" height="100px" width="101px" src="https://yt3.googleusercontent.com/ytc/AIdro_kMUxRc8x8SswtRuB6iOK03lU1SifsKESzusZPhAHQknQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.uricer.edu.br)
 
 [**URI**](https://www.uricer.edu.br/) \
-Time: Full-Time, Now \
+Time: Indirect Contract, Now \
 Service: `Professor`\
 <br>
 

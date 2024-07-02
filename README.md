@@ -62,7 +62,7 @@ This is the place where I opensource stuff and break things
 
 [**URI**](https://www.uricer.edu.br/) \
 Time: Indirect Contract, Now \
-Service: `Professor`\
+Service: `Professor of Computer Science`\
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG7DWzhIkwkJg/company-logo_200_200/0/1604197108944?e=2147483647&v=beta&t=WqQgXeJlG-IM7AiQiI6rwhdnHwwD8dSFMOn_q8KIYxg"/>](https://www.superbid.net/)

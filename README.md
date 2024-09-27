@@ -2,7 +2,7 @@
 
 This is the place where I opensource stuff and break things
 
-<img src="[https://github.com/jacksonn455/jacksonn455.github.io/blob/master/assets/img/banner.png]" alt="Imagem" style="width: 100%;">
+<img src = "https://github.com/jacksonn455/jacksonn455.github.io/blob/master/assets/img/banner.png"> 
 
 #
 

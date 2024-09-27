@@ -1,6 +1,6 @@
-### Hi there, I'm [Jackson Magnabosco!](https://jacksonn455.github.io/)
+### Hi there, I'm [Jackson Magnabosco!](https://jacksonmagnabosco.dev)
 
-This is the place where I opensource stuff and break things
+Welcome to my space where I share projects, explore innovative solutions, and contribute to the tech community.
 
 <img src = "https://github.com/jacksonn455/jacksonn455.github.io/blob/master/assets/img/banner.png"> 
 

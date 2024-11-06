@@ -61,35 +61,35 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 
 [<img align="left" height="100px" width="101px" src="https://yt3.googleusercontent.com/ytc/AIdro_kMUxRc8x8SswtRuB6iOK03lU1SifsKESzusZPhAHQknQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.uricer.edu.br)
 
-[**URI**](https://www.uricer.edu.br/) \
+[**URI**](https://www.uricer.edu.br/) (2024 - Present) \
 Time: Indirect Contract, Now \
-Service: `Professor of Computer Science`\
+Service: `Professor of Computer Science & Systems Analysis and Development`\
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG7DWzhIkwkJg/company-logo_200_200/0/1604197108944?e=2147483647&v=beta&t=WqQgXeJlG-IM7AiQiI6rwhdnHwwD8dSFMOn_q8KIYxg"/>](https://www.superbid.net/)
 
-[**Superbid**](https://www.superbid.net/) \
+[**Superbid**](https://www.superbid.net/) (2022 - Present)  \
 Time: Full-Time, Now \
 Service: `Software Engineer`\
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://github.com/jacksonn455/jacksonn455/blob/master/globalsys.png"/>](http://www.globalsys.com.br)
 
-[**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) \
+[**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - Present)  \
 Time: half-Time, Now \
 Service: `Developer Back-End`\
 <br>
 
 [<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/compass.jpg"/>](https://compassouol.com/)
 
-[**Compass.Uol**](https://compassouol.com/) \
+[**Compass.Uol**](https://compassouol.com/) (2020 - 2021)  \
 Time: Full-Time, 1 year and 8 months \
 Service: `DevOps`, `DevSecOps`\
 <br>
 
 [<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/logo-armarios-inteligentes.png"/>](http://www.armariosinteligentes.com.br)
 
-[**Armarios Inteligentes**](http://www.armariosinteligentes.com.br) \
+[**Armarios Inteligentes**](http://www.armariosinteligentes.com.br) (2018 - 2019) \
 Time: Half-Time, 1 year \
 Service: `Developer Java`, `Developer Flutter`\
 <br>

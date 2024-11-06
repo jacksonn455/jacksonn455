@@ -41,6 +41,9 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 ### Artificial Intelligence
 <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/jupyter.png' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/colab.png' width='35'/>
 
+### Machine Learning
+<img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/jupyter.png' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/colab.png' width='35'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
+
 ### Image Processing
 <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/matlab.png' width='35'/>
 

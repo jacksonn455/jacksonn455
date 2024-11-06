@@ -21,6 +21,7 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
 <img src = 'https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png' width='30'/> 
 <img width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonn455&langs_count=20"/>
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png' width='30'/> 
 
 ### Frameworks
 <img src = 'https://play-lh.googleusercontent.com/fHuiE_uOkIv95JBD8oZoOp_F7wRQtwZewenLfLFxTRddMIoXtEX9U6bIeOSComU_2Ds' width='30'/> <img src="https://docs.nestjs.com/assets/logo-small.svg" width='30'/> <img src="https://spring.io/img/logos/spring-initializr.svg" width='30'/>
@@ -42,7 +43,7 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/jupyter.png' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/colab.png' width='35'/>
 
 ### Machine Learning
-<img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/jupyter.png' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/colab.png' width='35'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
+<img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/jupyter.png' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/colab.png' width='35'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png' width='30'/> 
 
 ### Image Processing
 <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/matlab.png' width='35'/>

@@ -75,8 +75,8 @@ Service: `Software Engineer`\
 
 [<img align="left" height="100px" width="101px" src="https://github.com/jacksonn455/jacksonn455/blob/master/globalsys.png"/>](http://www.globalsys.com.br)
 
-[**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - Present)  \
-Time: half-Time, Now \
+[**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - 2024)  \
+Time: half-Time, 3 years and 4 months \
 Service: `Developer Back-End`\
 <br>
 

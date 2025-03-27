@@ -73,7 +73,7 @@ Learn to build complete web applications from scratch, mastering HTML, CSS, Java
 
 [**URI**](https://www.uricer.edu.br/) (2024 - Present) \
 Time: Indirect Contract, Now \
-Service: `Professor of Computer Science & Systems Analysis and Development`\
+Service: `Professor of Computer Science, IT Management & Systems Analysis and Development`\
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG7DWzhIkwkJg/company-logo_200_200/0/1604197108944?e=2147483647&v=beta&t=WqQgXeJlG-IM7AiQiI6rwhdnHwwD8dSFMOn_q8KIYxg"/>](https://www.superbid.net/)

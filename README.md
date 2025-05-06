@@ -73,7 +73,7 @@ Time: Full-Time, Now
 Service: `Software Engineer`  
 <br>
 
-[<img align="left" height="100px" width="101px" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png"/>](https://www.udemy.com/user/jackson-felipe-magnabosco/)
+[<img align="left" height="100px" width="101px" src="https://images.seeklogo.com/logo-png/40/1/udemy-logo-png_seeklogo-409219.png"/>](https://www.udemy.com/user/jackson-felipe-magnabosco/)
 
 [**Udemy**](https://www.udemy.com/user/jackson-felipe-magnabosco/) (2025 - Present)  
 Time: Freelance, Now  
@@ -87,7 +87,7 @@ Time: Full-Time, Now
 Service: `Software Engineer`  
 <br>
 
-[<img align="left" height="100px" width="101px" src="https://www.globalsys.com.br/wp-content/uploads/2020/07/logo-globalsys-header.png"/>](http://www.globalsys.com.br)
+[<img align="left" height="100px" width="101px" src="https://lh5.googleusercontent.com/proxy/xbIiZp85Wjtrn8suj2zPumrogvvhUCLeYeTG3A4_LhRq2_4GTnhfscEZJHRWhFsLc5NlcZKWLOTar7iWyEnyY_MW3UcbdrrnOsgN"/>](http://www.globalsys.com.br)
 
 [**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - 2024)  
 Time: Half-Time, 3 years and 4 months  
@@ -101,7 +101,7 @@ Time: Full-Time, 1 year and 8 months
 Service: `DevOps`, `DevSecOps`  
 <br>
 
-[<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/logo-armarios-inteligentes.png"/>](http://www.armariosinteligentes.com.br)
+[<img align="left" height="100px" width="100px" src="https://www.armariosinteligentes.com.br/wp-content/uploads/2022/01/avatar.png"/>](http://www.armariosinteligentes.com.br)
 
 [**Armarios Inteligentes**](http://www.armariosinteligentes.com.br) (2018 - 2019)  
 Time: Half-Time, 1 year  

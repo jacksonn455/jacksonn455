@@ -73,7 +73,19 @@ Time: Full-Time, Now \
 Service: `Software Engineer`\
 <br>
 
-[<img align="left" height="100px" width="101px" src="https://github.com/jacksonn455/jacksonn455/blob/master/globalsys.png"/>](http://www.globalsys.com.br)
+[**Udemy**](https://www.uricer.edu.br/](https://www.udemy.com/user/jackson-felipe-magnabosco/) (2025 - Present) \
+Time: Freelance, Now \
+Service: `Course Instructor`\
+<br>
+
+[<img align="left" height="100px" width="101px" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png"/>](https://www.superbid.net/](https://www.udemy.com/user/jackson-felipe-magnabosco/)
+
+[**Youtube**](https://youtube.com/@jacksonmagnabosco) (2025 - Present)  \
+Time: Full-Time, Now \
+Service: `Software Engineer`\
+<br>
+
+[<img align="left" height="100px" width="101px" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-oa03jx3h.png"/>](https://youtube.com/@jacksonmagnabosco)
 
 [**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - 2024)  \
 Time: half-Time, 3 years and 4 months \

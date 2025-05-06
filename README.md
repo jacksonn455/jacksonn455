@@ -1,4 +1,4 @@
-### Hi there, I'm [Jackson Magnabosco!](https://jacksonmagnabosco.dev)
+# Hi there, I'm [Jackson Magnabosco!](https://jacksonmagnabosco.dev) 👋
 
 Welcome to my space where I share projects, explore innovative solutions, and contribute to the tech community.
 

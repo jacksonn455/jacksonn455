@@ -83,8 +83,8 @@ Service: `Course Instructor`
 [<img align="left" height="100px" width="101px" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-oa03jx3h.png"/>](https://youtube.com/@jacksonmagnabosco)
 
 [**YouTube**](https://youtube.com/@jacksonmagnabosco) (2025 - Present)  
-Time: Full-Time, Now  
-Service: `Software Engineer`  
+Time: Freelance, Now  
+Service: `Content Creator`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://lh5.googleusercontent.com/proxy/xbIiZp85Wjtrn8suj2zPumrogvvhUCLeYeTG3A4_LhRq2_4GTnhfscEZJHRWhFsLc5NlcZKWLOTar7iWyEnyY_MW3UcbdrrnOsgN"/>](http://www.globalsys.com.br)

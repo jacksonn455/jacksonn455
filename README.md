@@ -2,8 +2,6 @@
 
 Welcome to my space where I share projects, explore innovative solutions, and contribute to the tech community.
 
-<img src = "https://github.com/jacksonn455/jacksonn455.github.io/blob/master/assets/img/White%20Full%20Photo%20Modern%20Wild%20Life%20Channel%20Youtube%20Banner%20%20(1).png"> 
-
 #
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=jacksonn455&column=8&margin-w=15&margin-h=25&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/jacksonn455)

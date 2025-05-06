@@ -73,7 +73,7 @@ Time: Full-Time, Now
 Service: `Software Engineer`  
 <br>
 
-[<img align="left" height="100px" width="101px" src="https://images.seeklogo.com/logo-png/40/1/udemy-logo-png_seeklogo-409219.png"/>](https://www.udemy.com/user/jackson-felipe-magnabosco/)
+[<img align="left" height="100px" width="101px" src="https://static.vecteezy.com/system/resources/previews/046/437/277/non_2x/udemy-transparent-logo-free-png"/>](https://www.udemy.com/user/jackson-felipe-magnabosco/)
 
 [**Udemy**](https://www.udemy.com/user/jackson-felipe-magnabosco/) (2025 - Present)  
 Time: Freelance, Now  

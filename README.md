@@ -6,7 +6,7 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=jacksonn455&column=8&margin-w=15&margin-h=25&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/jacksonn455)
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jacksonn455&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=jacksonn455&color=blue)
 
 #
 

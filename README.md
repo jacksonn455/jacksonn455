@@ -25,7 +25,7 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png' width='30'/> 
 
 ### Frameworks
-<img src = 'https://play-lh.googleusercontent.com/fHuiE_uOkIv95JBD8oZoOp_F7wRQtwZewenLfLFxTRddMIoXtEX9U6bIeOSComU_2Ds' width='30'/> <img src="https://docs.nestjs.com/assets/logo-small.svg" width='30'/> <img src="https://spring.io/img/logos/spring-initializr.svg" width='30'/> <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" width='30'/> <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" width='30'/>
+<img src = 'https://play-lh.googleusercontent.com/fHuiE_uOkIv95JBD8oZoOp_F7wRQtwZewenLfLFxTRddMIoXtEX9U6bIeOSComU_2Ds' width='30'/> <img src="https://docs.nestjs.com/assets/logo-small.svg" width='30'/> <img src="https://spring.io/img/logos/spring-initializr.svg" width='30'/> <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" width='30'/> <img src="https://www.vhv.rs/dpng/d/35-351319_flask-logo-png-transparent-png.png" width='30'/>
 
 ### Mobile App Development
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://www.staffworx.co.uk/wp-content/uploads/2020/12/kotlin-logo-3.jpg' width='50'/>
@@ -119,6 +119,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

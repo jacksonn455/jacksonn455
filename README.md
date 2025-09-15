@@ -31,7 +31,7 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://www.staffworx.co.uk/wp-content/uploads/2020/12/kotlin-logo-3.jpg' width='50'/>
 
 ### Database
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src="https://www.pinpng.com/pngs/m/489-4895811_sql-server-logo-microsoft-png-ms-sql-server.png" data-original="https://www.pinpng.com/pngs/m/489-4895811_sql-server-logo-microsoft-png-ms-sql-server.png" width='30'/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" width='30'/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/couchdb_original_wordmark_logo_icon_146586.png" width='30'/> <img  src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_502,h_518/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src="https://www.pinpng.com/pngs/m/489-4895811_sql-server-logo-microsoft-png-ms-sql-server.png" data-original="https://www.pinpng.com/pngs/m/489-4895811_sql-server-logo-microsoft-png-ms-sql-server.png" width='30'/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" width='30'/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/couchdb_original_wordmark_logo_icon_146586.png" width='30'/> <img  src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" width='30'/>
 <img  src="https://m.media-amazon.com/images/I/41QodfboFdL.png" width='30'/>
 
 ### Simulation
@@ -119,6 +119,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

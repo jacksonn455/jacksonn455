@@ -60,7 +60,6 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 
 ### Work Experience
 
-
 [<img align="left" height="100px" width="101px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG7DWzhIkwkJg/company-logo_200_200/0/1604197108944?e=2147483647&v=beta&t=WqQgXeJlG-IM7AiQiI6rwhdnHwwD8dSFMOn_q8KIYxg"/>](https://www.superbid.net/)
 
 [**Superbid**](https://www.superbid.net/) (2022 - Present)  
@@ -75,7 +74,7 @@ Time: Freelance, Now
 Service: `Course Instructor`  
 <br>
 
-[<img align="left" height="100px" width="101px" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-oa03jx3h.png"/>](https://youtube.com/@jacksonmagnabosco)
+[<img align="left" height="100px" width="101px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/>](https://youtube.com/@jacksonmagnabosco)
 
 [**YouTube**](https://youtube.com/@jacksonmagnabosco) (2025 - Present)  
 Time: Freelance, Now  
@@ -120,6 +119,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

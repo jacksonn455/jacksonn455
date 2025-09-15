@@ -60,12 +60,6 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 
 ### Work Experience
 
-[<img align="left" height="100px" width="101px" src="https://yt3.googleusercontent.com/ytc/AIdro_kMUxRc8x8SswtRuB6iOK03lU1SifsKESzusZPhAHQknQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.uricer.edu.br)
-
-[**URI**](https://www.uricer.edu.br/) (2024 - Present)  
-Time: Indirect Contract, Now  
-Service: `Professor of Computer Science, IT Management & Systems Analysis and Development`  
-<br>
 
 [<img align="left" height="100px" width="101px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG7DWzhIkwkJg/company-logo_200_200/0/1604197108944?e=2147483647&v=beta&t=WqQgXeJlG-IM7AiQiI6rwhdnHwwD8dSFMOn_q8KIYxg"/>](https://www.superbid.net/)
 
@@ -86,6 +80,13 @@ Service: `Course Instructor`
 [**YouTube**](https://youtube.com/@jacksonmagnabosco) (2025 - Present)  
 Time: Freelance, Now  
 Service: `Content Creator`  
+<br>
+
+[<img align="left" height="100px" width="101px" src="https://yt3.googleusercontent.com/ytc/AIdro_kMUxRc8x8SswtRuB6iOK03lU1SifsKESzusZPhAHQknQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.uricer.edu.br)
+
+[**URI**](https://www.uricer.edu.br/) (2024 - 2025)  
+Time: Indirect Contract, Now  
+Service: `Professor of Computer Science, IT Management & Systems Analysis and Development`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://lh5.googleusercontent.com/proxy/xbIiZp85Wjtrn8suj2zPumrogvvhUCLeYeTG3A4_LhRq2_4GTnhfscEZJHRWhFsLc5NlcZKWLOTar7iWyEnyY_MW3UcbdrrnOsgN"/>](http://www.globalsys.com.br)
@@ -119,6 +120,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

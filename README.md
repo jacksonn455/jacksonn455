@@ -13,7 +13,8 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 ### Certificates
 
 <img src = 'https://www.cventures.com.br/wp-content/uploads/2022/10/wevo.png' width='60'/> <img src =
-'https://allvectorlogo.com/img/2017/02/veracode-logo.png' width='60'/> <img src = 'https://ucarecdn.com/2e06cb12-854b-4024-89fd-0e8c0246e706/-/format/auto/-/preview/480x480/-/quality/lighter/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png' width='50'/> <img src = 'https://static.wixstatic.com/media/74bb6f_77877b211a674376b2f4ce706d563414~mv2.png/v1/fill/w_275,h_278,al_c,q_95,enc_auto/SFC%20-%20Scrum%20Fundamentals%20Certified.png' width='50'/> <img src = 'https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png' width='50'/> <img src = 'https://images.credly.com/size/680x680/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png' width='50'/>
+'https://allvectorlogo.com/img/2017/02/veracode-logo.png' width='60'/> <img src = 'https://ucarecdn.com/2e06cb12-854b-4024-89fd-0e8c0246e706/-/format/auto/-/preview/480x480/-/quality/lighter/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png' width='50'/> <img src = 'https://static.wixstatic.com/media/74bb6f_77877b211a674376b2f4ce706d563414~mv2.png/v1/fill/w_275,h_278,al_c,q_95,enc_auto/SFC%20-%20Scrum%20Fundamentals%20Certified.png' width='50'/> <img src = 'https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png' width='50'/> <img src = 'https://images.credly.com/size/680x680/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png' width='50'/> <img src = 'https://a.storyblok.com/f/79503/250x250/8402d11651/group-3.png' width='50'/>
+
 #
 
 ### Programming Languages
@@ -119,6 +120,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

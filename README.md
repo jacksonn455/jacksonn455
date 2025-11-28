@@ -61,6 +61,13 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 
 ### Work Experience
 
+[<img align="left" height="100px" width="101px" src="https://www.mercor.com/_next/static/media/logo.4e773633.png"/>](https://www.mercor.com/)
+
+[**Mercor**](https://www.mercor.com/) (2025 - Present)  
+Time: Freelance, Now  
+Service: `Software Engineer (Coding Agent Experience)`  
+<br>
+
 [<img align="left" height="100px" width="101px" src="https://www.ciadosdescontos.com/img/parceiros/logos/cupom-desconto-udemy.png"/>](https://www.udemy.com/user/jackson-felipe-magnabosco/)
 
 [**Udemy**](https://www.udemy.com/user/jackson-felipe-magnabosco/) (2025 - Present)  
@@ -120,6 +127,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

@@ -63,56 +63,56 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 
 [<img align="left" height="100px" width="101px" src="https://www.mercor.com/_next/static/media/logo.4e773633.png"/>](https://www.mercor.com/)
 
-[**Mercor**](https://www.mercor.com/) (2025 - Present) United States
+[**Mercor**](https://www.mercor.com/) (2025 - Present) United States <br>
 Time: Freelance, Now  
 Service: `Software Engineer (Coding Agent Experience)`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://www.ciadosdescontos.com/img/parceiros/logos/cupom-desconto-udemy.png"/>](https://www.udemy.com/user/jackson-felipe-magnabosco/)
 
-[**Udemy**](https://www.udemy.com/user/jackson-felipe-magnabosco/) (2025 - Present) United States
+[**Udemy**](https://www.udemy.com/user/jackson-felipe-magnabosco/) (2025 - Present) United States <br>
 Time: Freelance, Now  
 Service: `Course Instructor`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/>](https://youtube.com/@jacksonmagnabosco)
 
-[**YouTube**](https://youtube.com/@jacksonmagnabosco) (2025 - Present) United States
+[**YouTube**](https://youtube.com/@jacksonmagnabosco) (2025 - Present) United States <br>
 Time: Freelance, Now  
 Service: `Content Creator`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG7DWzhIkwkJg/company-logo_200_200/0/1604197108944?e=2147483647&v=beta&t=WqQgXeJlG-IM7AiQiI6rwhdnHwwD8dSFMOn_q8KIYxg"/>](https://www.superbid.net/)
 
-[**Superbid**](https://www.superbid.net/) (2022 - 2025) Brazil
+[**Superbid**](https://www.superbid.net/) (2022 - 2025) Brazil <br>
 Time: Full-Time, 3 years  
 Service: `Software Engineer`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://yt3.googleusercontent.com/ytc/AIdro_kMUxRc8x8SswtRuB6iOK03lU1SifsKESzusZPhAHQknQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.uricer.edu.br)
 
-[**URI**](https://www.uricer.edu.br/) (2024 - 2025) Brazil
+[**URI**](https://www.uricer.edu.br/) (2024 - 2025) Brazil <br>
 Time: Indirect Contract, 1 year and 2 months  
 Service: `Professor of Computer Science, IT Management & Systems Analysis and Development`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://lh5.googleusercontent.com/proxy/xbIiZp85Wjtrn8suj2zPumrogvvhUCLeYeTG3A4_LhRq2_4GTnhfscEZJHRWhFsLc5NlcZKWLOTar7iWyEnyY_MW3UcbdrrnOsgN"/>](http://www.globalsys.com.br)
 
-[**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - 2024) Brazil
+[**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - 2024) Brazil <br>
 Time: Half-Time, 3 years and 4 months  
 Service: `Developer Back-End`  
 <br>
 
 [<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/compass.jpg"/>](https://compassouol.com/)
 
-[**Compass.Uol**](https://compassouol.com/) (2020 - 2021) Brazil
+[**Compass.Uol**](https://compassouol.com/) (2020 - 2021) Brazil <br>
 Time: Full-Time, 1 year and 8 months  
 Service: `DevOps`, `DevSecOps`  
 <br>
 
 [<img align="left" height="100px" width="100px" src="https://www.armariosinteligentes.com.br/wp-content/uploads/2022/01/avatar.png"/>](http://www.armariosinteligentes.com.br)
 
-[**Armarios Inteligentes (Smart-Lockers)**](http://www.armariosinteligentes.com.br) (2017 - 2019) Brazil
+[**Armarios Inteligentes (Smart-Lockers)**](http://www.armariosinteligentes.com.br) (2017 - 2019) Brazil <br>
 Time: Half-Time, 2 year  
 Service: `Developer Java`, `Developer Flutter`  
 <br>
@@ -127,6 +127,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

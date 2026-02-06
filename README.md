@@ -64,7 +64,7 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 [<img align="left" height="100px" width="101px" src="https://www.mercor.com/_next/static/media/logo.4e773633.png"/>](https://www.mercor.com/)
 
 [**Mercor**](https://www.mercor.com/) (2025 - Present) United States <br>
-Time: Now <br>  
+Time: Now   
 Type: Freelance <br>
 Service: `Software Engineer (Coding Agent Experience)`   
 <br>
@@ -120,7 +120,7 @@ Service: `Developer Back-End`
 [<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/compass.jpg"/>](https://compassouol.com/)
 
 [**Compass.Uol**](https://compassouol.com/) (2020 - 2021) Brazil <br>
-Time: Full-Time, 1 year and 8 months
+Time: Full-Time, 1 year and 8 months <br>
 Type: Employee <br>
 Service: `DevOps`, `DevSecOps`  
 <br>
@@ -143,6 +143,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

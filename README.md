@@ -117,7 +117,7 @@ Time: Full-Time, 1 year and 8 months
 Service: `DevOps`, `DevSecOps`  
 <br>
 
-[<img align="left" height="100px" width="100px" src="https://www.armariosinteligentes.com.br/wp-content/uploads/2022/01/avatar.png"/>](http://www.armariosinteligentes.com.br)
+[<img align="left" height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ75zusgcwqGhaUp56C1SiYnqT1Osho7bdJA&s"/>](http://www.armariosinteligentes.com.br)
 
 [**Armarios Inteligentes (Smart-Lockers)**](http://www.armariosinteligentes.com.br) (2017 - 2019) Brazil <br>
 Time: Half-Time, 2 year  
@@ -134,6 +134,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

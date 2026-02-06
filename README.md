@@ -2,10 +2,6 @@
 
 Welcome to my space where I share projects, explore innovative solutions, and contribute to the tech community.
 
-#
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=jacksonn455&column=8&margin-w=15&margin-h=25&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/jacksonn455)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=jacksonn455&color=blue)
 
 #
@@ -143,6 +139,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

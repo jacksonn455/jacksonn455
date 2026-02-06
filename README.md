@@ -64,71 +64,72 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 [<img align="left" height="100px" width="101px" src="https://www.mercor.com/_next/static/media/logo.4e773633.png"/>](https://www.mercor.com/)
 
 [**Mercor**](https://www.mercor.com/) (2025 - Present) United States <br>
-Time: Freelance, Now  
-Service: `Software Engineer (Coding Agent Experience)`  
+Time: Now <br>  
+Type: Freelance <br>
+Service: `Software Engineer (Coding Agent Experience)`   
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShF6MM6917kTBfAVtxL3VSjAIG6LNDvfWpRQ&s"/>](https://tempo.com.vc/)
 
 [**Tempo**](https://tempo.com.vc/) (2026 - Present) Brazil <br>
-Time: Now  
-Type: Contractor
+Time: Now  <br>
+Type: Contractor <br>
 Service: `Full Stack Developer`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://www.ciadosdescontos.com/img/parceiros/logos/cupom-desconto-udemy.png"/>](https://www.udemy.com/user/jackson-felipe-magnabosco/)
 
 [**Udemy**](https://www.udemy.com/user/jackson-felipe-magnabosco/) (2025 - Present) United States <br>
-Time: Now
-Type: Freelance  
+Time: Now <br>
+Type: Freelance  <br>
 Service: `Course Instructor`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/250px-Youtube_Music_icon.svg.png"/>](https://youtube.com/@jacksonmagnabosco)
 
 [**YouTube**](https://youtube.com/@jacksonmagnabosco) (2025 - Present) United States <br>
-Time: Now
-Type: Freelance  
+Time: Now <br>
+Type: Freelance <br>  
 Service: `Content Creator`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG7DWzhIkwkJg/company-logo_200_200/0/1604197108944?e=2147483647&v=beta&t=WqQgXeJlG-IM7AiQiI6rwhdnHwwD8dSFMOn_q8KIYxg"/>](https://www.superbid.net/)
 
 [**Superbid**](https://www.superbid.net/) (2022 - 2025) Brazil <br>
-Time: Full-Time, 3 years
-Type: Employee
+Time: Full-Time, 3 years <br>
+Type: Employee <br>
 Service: `Software Engineer`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://yt3.googleusercontent.com/ytc/AIdro_kMUxRc8x8SswtRuB6iOK03lU1SifsKESzusZPhAHQknQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.uricer.edu.br)
 
 [**URI**](https://www.uricer.edu.br/) (2024 - 2025) Brazil <br>
-Time: Indirect Contract, 1 year and 2 months
-Type: Employee
+Time: Indirect Contract, 1 year and 2 months <br>
+Type: Employee <br>
 Service: `Professor of Computer Science, Systems Analysis and Development`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://media.glassdoor.com/sqll/2359648/globalsys-squarelogo-1641963529530.png"/>](http://www.globalsys.com.br)
 
 [**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - 2024) Brazil <br>
-Time: Half-Time, 3 years and 4 months  
-Type: Contractor
+Time: Half-Time, 3 years and 4 months <br>   
+Type: Contractor <br>
 Service: `Developer Back-End`  
 <br>
 
 [<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/compass.jpg"/>](https://compassouol.com/)
 
 [**Compass.Uol**](https://compassouol.com/) (2020 - 2021) Brazil <br>
-Time: Full-Time, 1 year and 8 months  
-Type: Employee
+Time: Full-Time, 1 year and 8 months <br>  
+Type: Employee <br>
 Service: `DevOps`, `DevSecOps`  
 <br>
 
 [<img align="left" height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ75zusgcwqGhaUp56C1SiYnqT1Osho7bdJA&s"/>](http://www.armariosinteligentes.com.br)
 
 [**Armarios Inteligentes (Smart-Lockers)**](http://www.armariosinteligentes.com.br) (2017 - 2019) Brazil <br>
-Time: Half-Time, 2 year 
-Type: Employee
+Time: Half-Time, 2 year  <br>
+Type: Employee <br>
 Service: `Developer Java`, `Developer Flutter`  
 <br>
 
@@ -142,6 +143,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

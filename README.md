@@ -75,7 +75,12 @@ Time: Freelance, Now
 Service: `Course Instructor`  
 <br>
 
-[<img align="left" height="100px" width="101px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/>](https://youtube.com/@jacksonmagnabosco)
+[<img align="left" height="100px" width="101px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShF6MM6917kTBfAVtxL3VSjAIG6LNDvfWpRQ&s"/>](https://tempo.com.vc/)
+
+[**Tempo**](https://tempo.com.vc/) (2026 - Present) Brazil <br>
+Time: Contractor, Now  
+Service: `Full Stack Developer`  
+<br>
 
 [**YouTube**](https://youtube.com/@jacksonmagnabosco) (2025 - Present) United States <br>
 Time: Freelance, Now  
@@ -127,6 +132,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

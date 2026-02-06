@@ -100,10 +100,10 @@ Service: `Software Engineer`
 
 [**URI**](https://www.uricer.edu.br/) (2024 - 2025) Brazil <br>
 Time: Indirect Contract, 1 year and 2 months  
-Service: `Professor of Computer Science, IT Management & Systems Analysis and Development`  
+Service: `Professor of Computer Science, Systems Analysis and Development`  
 <br>
 
-[<img align="left" height="100px" width="101px" src="https://lh5.googleusercontent.com/proxy/xbIiZp85Wjtrn8suj2zPumrogvvhUCLeYeTG3A4_LhRq2_4GTnhfscEZJHRWhFsLc5NlcZKWLOTar7iWyEnyY_MW3UcbdrrnOsgN"/>](http://www.globalsys.com.br)
+[<img align="left" height="100px" width="101px" src="https://media.glassdoor.com/sqll/2359648/globalsys-squarelogo-1641963529530.png"/>](http://www.globalsys.com.br)
 
 [**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - 2024) Brazil <br>
 Time: Half-Time, 3 years and 4 months  
@@ -134,6 +134,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

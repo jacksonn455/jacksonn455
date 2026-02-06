@@ -89,7 +89,7 @@ Service: `Course Instructor`
 
 [**YouTube**](https://youtube.com/@jacksonmagnabosco) (2025 - Present) United States <br>
 Time: Now <br>
-Type: Freelance <br>  
+Type: Freelance  
 Service: `Content Creator`  
 <br>
 
@@ -112,7 +112,7 @@ Service: `Professor of Computer Science, Systems Analysis and Development`
 [<img align="left" height="100px" width="101px" src="https://media.glassdoor.com/sqll/2359648/globalsys-squarelogo-1641963529530.png"/>](http://www.globalsys.com.br)
 
 [**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - 2024) Brazil <br>
-Time: Half-Time, 3 years and 4 months <br>   
+Time: Half-Time, 3 years and 4 months   
 Type: Contractor <br>
 Service: `Developer Back-End`  
 <br>
@@ -120,7 +120,7 @@ Service: `Developer Back-End`
 [<img align="left" height="100px" width="100px" src="https://github.com/jacksonn455/jacksonn455/blob/master/compass.jpg"/>](https://compassouol.com/)
 
 [**Compass.Uol**](https://compassouol.com/) (2020 - 2021) Brazil <br>
-Time: Full-Time, 1 year and 8 months <br>  
+Time: Full-Time, 1 year and 8 months
 Type: Employee <br>
 Service: `DevOps`, `DevSecOps`  
 <br>
@@ -143,6 +143,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

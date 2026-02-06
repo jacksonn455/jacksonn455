@@ -71,35 +71,40 @@ Service: `Software Engineer (Coding Agent Experience)`
 [<img align="left" height="100px" width="101px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShF6MM6917kTBfAVtxL3VSjAIG6LNDvfWpRQ&s"/>](https://tempo.com.vc/)
 
 [**Tempo**](https://tempo.com.vc/) (2026 - Present) Brazil <br>
-Time: Contractor, Now  
+Time: Now  
+Type: Contractor
 Service: `Full Stack Developer`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://www.ciadosdescontos.com/img/parceiros/logos/cupom-desconto-udemy.png"/>](https://www.udemy.com/user/jackson-felipe-magnabosco/)
 
 [**Udemy**](https://www.udemy.com/user/jackson-felipe-magnabosco/) (2025 - Present) United States <br>
-Time: Freelance, Now  
+Time: Now
+Type: Freelance  
 Service: `Course Instructor`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/250px-Youtube_Music_icon.svg.png"/>](https://youtube.com/@jacksonmagnabosco)
 
 [**YouTube**](https://youtube.com/@jacksonmagnabosco) (2025 - Present) United States <br>
-Time: Freelance, Now  
+Time: Now
+Type: Freelance  
 Service: `Content Creator`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG7DWzhIkwkJg/company-logo_200_200/0/1604197108944?e=2147483647&v=beta&t=WqQgXeJlG-IM7AiQiI6rwhdnHwwD8dSFMOn_q8KIYxg"/>](https://www.superbid.net/)
 
 [**Superbid**](https://www.superbid.net/) (2022 - 2025) Brazil <br>
-Time: Full-Time, 3 years  
+Time: Full-Time, 3 years
+Type: Employee
 Service: `Software Engineer`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://yt3.googleusercontent.com/ytc/AIdro_kMUxRc8x8SswtRuB6iOK03lU1SifsKESzusZPhAHQknQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.uricer.edu.br)
 
 [**URI**](https://www.uricer.edu.br/) (2024 - 2025) Brazil <br>
-Time: Indirect Contract, 1 year and 2 months  
+Time: Indirect Contract, 1 year and 2 months
+Type: Employee
 Service: `Professor of Computer Science, Systems Analysis and Development`  
 <br>
 
@@ -107,6 +112,7 @@ Service: `Professor of Computer Science, Systems Analysis and Development`
 
 [**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - 2024) Brazil <br>
 Time: Half-Time, 3 years and 4 months  
+Type: Contractor
 Service: `Developer Back-End`  
 <br>
 
@@ -114,13 +120,15 @@ Service: `Developer Back-End`
 
 [**Compass.Uol**](https://compassouol.com/) (2020 - 2021) Brazil <br>
 Time: Full-Time, 1 year and 8 months  
+Type: Employee
 Service: `DevOps`, `DevSecOps`  
 <br>
 
 [<img align="left" height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ75zusgcwqGhaUp56C1SiYnqT1Osho7bdJA&s"/>](http://www.armariosinteligentes.com.br)
 
 [**Armarios Inteligentes (Smart-Lockers)**](http://www.armariosinteligentes.com.br) (2017 - 2019) Brazil <br>
-Time: Half-Time, 2 year  
+Time: Half-Time, 2 year 
+Type: Employee
 Service: `Developer Java`, `Developer Flutter`  
 <br>
 
@@ -134,6 +142,7 @@ Service: `Developer Java`, `Developer Flutter`
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@soichiro.jacson)](https://medium.com/@jacksonn455)
 [![Outlook Badge](https://img.shields.io/badge/-jacksonmagnabosco%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jacksonmagnabosco@hotmail.com)](mailto:jacksonmagnabosco@hotmail.com)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?style=flat&logo=fas&logoColor=white&label=lattes.cnpq.br)](http://lattes.cnpq.br/4613856780210407)
+
 
 
 

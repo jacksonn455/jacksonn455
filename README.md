@@ -62,7 +62,7 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 [**Mercor**](https://www.mercor.com/) (2025 - Present) United States <br>
 Time: Now   
 Type: Freelance <br>
-Service: `Software Engineer (Coding Agent Experience)`   
+Service: `AI Coding Agent Trainer`   
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShF6MM6917kTBfAVtxL3VSjAIG6LNDvfWpRQ&s"/>](https://tempo.com.vc/)
@@ -70,7 +70,7 @@ Service: `Software Engineer (Coding Agent Experience)`
 [**Tempo**](https://tempo.com.vc/) (2026 - Present) Brazil <br>
 Time: Now  <br>
 Type: Contractor <br>
-Service: `Full Stack Developer`  
+Service: `Software Engineer`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://www.ciadosdescontos.com/img/parceiros/logos/cupom-desconto-udemy.png"/>](https://www.udemy.com/user/jackson-felipe-magnabosco/)

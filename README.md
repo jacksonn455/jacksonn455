@@ -91,7 +91,7 @@ Type: Freelance
 Service: `Content Creator`  
 <br>
 
-[<img align="left" height="100px" width="101px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG7DWzhIkwkJg/company-logo_200_200/0/1604197108944?e=2147483647&v=beta&t=WqQgXeJlG-IM7AiQiI6rwhdnHwwD8dSFMOn_q8KIYxg"/>](https://www.superbid.net/)
+[<img align="left" height="100px" width="101px" src="https://media.glassdoor.com/sqll/2482922/superbid-squareLogo-1696878620529.png"/>](https://www.superbid.net/)
 
 [**Superbid**](https://www.superbid.net/) (2022 - 2025) Brazil <br>
 Time: Full-Time, 3 years <br>

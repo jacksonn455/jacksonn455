@@ -18,7 +18,6 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/c.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/C_Sharp_logo.svg' width='30'/> <img src = 'https://github.com/jacksonn455/jacksonn455/blob/master/java.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
 <img src = 'https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png' width='30'/> 
-<img width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonn455&langs_count=20"/>
 <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png' width='30'/> 
 
 ### Frameworks

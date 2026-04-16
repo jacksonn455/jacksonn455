@@ -57,6 +57,7 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 ### Work Experience
 
 [<img align="left" height="100px" width="101px" src="https://covetrus.com.br/wp-content/uploads/2021/01/favicon-covetrus.png"/>](https://www.covetrus.com/)
+[<img align="left" height="100px" width="101px" src= "https://media.licdn.com/dms/image/v2/D4D0BAQFwwwVW9HV1Zw/company-logo_200_200/company-logo_200_200/0/1684782684656/oowlish_logo?e=2147483647&v=beta&t=1DPO9D6e9L-L0J-q4f-AmrKKX5rQVelEspyQkFb18fA"/>](https://www.oowlish.com/)
 
 [**Covetrus**](https://www.covetrus.com/) (2026 - Present) United States <br>
 Time: Now  

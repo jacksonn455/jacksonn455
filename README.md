@@ -56,13 +56,20 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 
 ### Work Experience
 
+[<img align="left" height="100px" width="101px" src="https://www.covetrus.com/themes/custom/covetrus/logo.svg"/>](https://www.covetrus.com/)
+
+[**Covetrus**](https://www.covetrus.com/) (2026 - Present) United States <br>
+Time: Now  
+Type: Contract <br>
+Service: `Product Engineer`  
+<br>
+
 [<img align="left" height="100px" width="101px" src="https://www.mercor.com/_next/static/media/logo.4e773633.png"/>](https://www.mercor.com/)
 
-[**Mercor**](https://www.mercor.com/) (2025 - Present) United States <br>
-Time: Now   
+[**Mercor**](https://www.mercor.com/) (2025 - 2026) United States <br>
+Time: 1 year   
 Type: Freelance <br>
 Service: `AI Coding Agent Trainer`   
-<br>
 
 <!--
 [<img align="left" height="100px" width="101px" src="https://tempo.com.vc/"/>

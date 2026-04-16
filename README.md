@@ -56,7 +56,7 @@ Welcome to my space where I share projects, explore innovative solutions, and co
 
 ### Work Experience
 
-[<img align="left" height="100px" width="101px" src="https://www.covetrus.com/themes/custom/covetrus/logo.svg"/>](https://www.covetrus.com/)
+[<img align="left" height="100px" width="101px" src="https://covetrus.com.br/wp-content/uploads/2021/01/favicon-covetrus.png"/>](https://www.covetrus.com/)
 
 [**Covetrus**](https://www.covetrus.com/) (2026 - Present) United States <br>
 Time: Now  

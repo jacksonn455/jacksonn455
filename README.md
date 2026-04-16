@@ -113,10 +113,10 @@ Type: Employee <br>
 Service: `Professor of Computer Science, Systems Analysis and Development`  
 <br>
 
-<p align="left">
-  <img src="https://media.glassdoor.com/sqll/2359648/globalsys-squarelogo-1641963529530.png" width="80"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZAL9AKNaiqYRoU0ya6A7q6ONRS4oJ9fqJQ&s" width="80"/>
-</p>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://media.glassdoor.com/sqll/2359648/globalsys-squarelogo-1641963529530.png" width="60"/>
+  <img src="https://images.seeklogo.com/logo-png/40/1/passaro-reserva-logo-png_seeklogo-403776.png" width="60"/>
+</div>
 
 [**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - 2024) Brazil <br>
 Time: Half-Time, 3 years and 4 months   

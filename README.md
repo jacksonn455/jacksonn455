@@ -114,7 +114,7 @@ Type: Employee <br>
 Service: `Professor of Computer Science, Systems Analysis and Development`  
 <br>
 
-[<img align="left" height="100px" width="101px" src="https://media.glassdoor.com/sqll/2359648/globalsys-squarelogo-1641963529530.png"/>](http://www.globalsys.com.br)
+[<img align="left" height="100px" width="101px" src="https://www.globalsys.com.br/wp-content/uploads/2025/11/Globalsys.png"/>](http://www.globalsys.com.br)
 [<img align="left" height="100px" width="101px" src="https://images.seeklogo.com/logo-png/40/1/passaro-reserva-logo-png_seeklogo-403776.png"/>](https://www.usereserva.com/)
 
 [**Globalsys outsourcing: Reserva (AR & Co)**](http://www.globalsys.com.br) (2021 - 2024) Brazil <br>

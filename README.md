@@ -93,7 +93,7 @@ Service: `Content Creator`
 </a>
 
 **[Tempo](https://tempo.com.vc/)** (2025 - 2026) Brazil <br>
-Time: 1 year <br>
+Time: Full-Time, 1 year <br>
 Type: Contractor <br>
 Service: `Software Engineer`
 <br>

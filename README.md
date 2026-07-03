@@ -88,12 +88,12 @@ Type: Freelance
 Service: `Content Creator`  
 <br>
 
-[<img align="left" height="100px" width="101px" src="https://media.licdn.com/dms/image/v2/C4D0BAQHxwvDNTpRjnA/company-logo_200_200/company-logo_200_200/0/1669948269046/tempo_assist_logo?e=1784764800&v=beta&t=VO9cuOFAgEYB1DjxWzPmM73gfY-RTBEl1wXlAh20Jw0"/>]
+<img align="left" height="100px" width="101px" src="https://media.licdn.com/dms/image/v2/C4D0BAQHxwvDNTpRjnA/company-logo_200_200/company-logo_200_200/0/1669948269046/tempo_assist_logo?e=1784764800&v=beta&t=VO9cuOFAgEYB1DjxWzPmM73gfY-RTBEl1wXlAh20Jw0"/>
 
-[**Tempo**](https://tempo.com.vc/) (2025 - 2026) Brazil <br>
-Time: Now  <br>
+**[Tempo](https://tempo.com.vc/)** (2025 - 2026) Brazil <br>
+Time: Now <br>
 Type: Contractor <br>
-Service: `Software Engineer`  
+Service: `Software Engineer`
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://pbs.twimg.com/profile_images/1570732686079148035/evsU9U0o_400x400.jpg"/>](https://www.superbid.net/)

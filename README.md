@@ -72,15 +72,14 @@ Time: 1 year
 Type: Freelance <br>
 Service: `AI Coding Agent Trainer`   
 
-<!--
 [<img align="left" height="100px" width="101px" src="https://tempo.com.vc/"/>
 
-[**Tempo**](https://tempo.com.vc/) (2026 - Present) Brazil <br>
+[**Tempo**](https://tempo.com.vc/) (2025 - 2026) Brazil <br>
 Time: Now  <br>
 Type: Contractor <br>
 Service: `Software Engineer`  
 <br>
--->
+
 
 [<img align="left" height="100px" width="101px" src="https://www.ciadosdescontos.com/img/parceiros/logos/cupom-desconto-udemy.png"/>](https://www.udemy.com/user/jackson-felipe-magnabosco/)
 

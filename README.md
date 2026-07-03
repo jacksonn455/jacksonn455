@@ -72,15 +72,6 @@ Time: 1 year
 Type: Freelance <br>
 Service: `AI Coding Agent Trainer`   
 
-[<img align="left" height="100px" width="101px" src="https://tempo.com.vc/"/>
-
-[**Tempo**](https://tempo.com.vc/) (2025 - 2026) Brazil <br>
-Time: Now  <br>
-Type: Contractor <br>
-Service: `Software Engineer`  
-<br>
-
-
 [<img align="left" height="100px" width="101px" src="https://www.ciadosdescontos.com/img/parceiros/logos/cupom-desconto-udemy.png"/>](https://www.udemy.com/user/jackson-felipe-magnabosco/)
 
 [**Udemy**](https://www.udemy.com/user/jackson-felipe-magnabosco/) (2025 - Present) United States <br>
@@ -95,6 +86,14 @@ Service: `Course Instructor`
 Time: Now <br>
 Type: Freelance  
 Service: `Content Creator`  
+<br>
+
+[<img align="left" height="100px" width="101px" src="https://tempo.com.vc/wp-content/uploads/2022/11/tempo-logo-2.svg"/>
+
+[**Tempo**](https://tempo.com.vc/) (2025 - 2026) Brazil <br>
+Time: Now  <br>
+Type: Contractor <br>
+Service: `Software Engineer`  
 <br>
 
 [<img align="left" height="100px" width="101px" src="https://pbs.twimg.com/profile_images/1570732686079148035/evsU9U0o_400x400.jpg"/>](https://www.superbid.net/)

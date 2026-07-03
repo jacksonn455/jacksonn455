@@ -88,10 +88,12 @@ Type: Freelance
 Service: `Content Creator`  
 <br>
 
-<img align="left" height="100px" width="101px" src="https://media.licdn.com/dms/image/v2/C4D0BAQHxwvDNTpRjnA/company-logo_200_200/company-logo_200_200/0/1669948269046/tempo_assist_logo?e=1784764800&v=beta&t=VO9cuOFAgEYB1DjxWzPmM73gfY-RTBEl1wXlAh20Jw0"/>
+<a href="https://tempo.com.vc/">
+  <img align="left" height="100px" width="101px" src="https://media.licdn.com/dms/image/v2/C4D0BAQHxwvDNTpRjnA/company-logo_200_200/company-logo_200_200/0/1669948269046/tempo_assist_logo?e=1784764800&v=beta&t=VO9cuOFAgEYB1DjxWzPmM73gfY-RTBEl1wXlAh20Jw0"/>
+</a>
 
 **[Tempo](https://tempo.com.vc/)** (2025 - 2026) Brazil <br>
-Time: Now <br>
+Time: 1 year <br>
 Type: Contractor <br>
 Service: `Software Engineer`
 <br>
